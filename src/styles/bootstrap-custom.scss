@@ -1,0 +1,23 @@
+.navbar-brand {
+  font-family: "Montserrat Extrabold", "sans-serif";
+  font-size: 2rem !important;
+}
+
+.nav-link {
+  font-family: "Montserrat Medium", "sans-serif";
+  font-size: 0.75rem !important;
+}
+
+.card {
+  margin-bottom: 1rem;
+}
+
+.footer {
+  .card {
+    text-align: center;
+  }
+  .card-img {
+    margin: auto;
+    width: 50px;
+  }
+}
