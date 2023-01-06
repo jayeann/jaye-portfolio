@@ -3,7 +3,7 @@ import { Row, Col, Container, Image } from "react-bootstrap";
 
 import JayeBnW from "../assets/images/jaye_bnw.jpeg";
 
-const About = () => {
+const AboutPage = () => {
   return (
     <Container>
       <Row>
@@ -22,7 +22,12 @@ const About = () => {
           </div>
         </Col>
         <Col xs={12} lg={6}>
-          <Image src={JayeBnW} width={600} height={600} />
+          <Image
+            className="image-float"
+            src={JayeBnW}
+            width={600}
+            height={600}
+          />
         </Col>
       </Row>
 
@@ -31,23 +36,24 @@ const About = () => {
           <div className="Career block">
             <h3>My Career so far</h3>
             <p>
-              I'm lucky to have started my career at Trends & Technologies. as a
-              Software Developer. I discovered a lot of different technologies
-              and amazing people. I became part of the business analytics and
-              innovations team. I also discovered a new skill that will be a
-              huge help to the products that we're developing and the future
-              apps that we'll develop soon.
+              I started my career at Trends & Technologies as a software
+              developer. I discovered a lot of different technologies and
+              amazing people. I became part of the business analytics and
+              innovation team. I also learned a new skill that will be extremely
+              beneficial to the products we create and the future apps we plan
+              to create.
             </p>
             <p>
-              After more than 2 years, I joined FPS, Inc . as a Frontend
-              Developer. I became a part of a team of 5 for a big company. We
-              contribute to develop a platform prototype that would really help
-              the company.
+              After more than 2 years, I joined FPS, Inc., as a frontend
+              developer. I became part of a team of five for a big company. We
+              developed a platform prototype that would really help
+              organizations make smarter business decisions and reinforce
+              relationships with customers.
             </p>
             <p>
-              After some time, I recently joined UBX as a Software Engineer.
-              I've learned many things and enjoyed creating different platforms
-              for our clientsand collaborating with my colleagues.
+              After some time, I joined UBX as a software engineer. I've learned
+              many things and enjoyed creating different platforms for our
+              clients and collaborating with my colleagues.
             </p>
             <p>
               I've been working for almost 5 years now as a developer. Over the
@@ -82,4 +88,4 @@ const About = () => {
     </Container>
   );
 };
-export default About;
+export default AboutPage;

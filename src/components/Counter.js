@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Button from "@mui/material/Button";
+import { Button } from "react-bootstrap";
 
 const Counter = () => {
   const [counter, setCounter] = useState(0);

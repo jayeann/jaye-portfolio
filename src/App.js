@@ -6,9 +6,10 @@ import NavigationBar from "./common/NavigationBar";
 import Footer from "./common/Footer";
 
 //pages
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Work from "./pages/Work";
+import Homepage from "./pages/Homepage";
+import AboutPage from "./pages/AboutPage";
+import WorkPage from "./pages/WorkPage";
+import PlaygroundPage from "./pages/PlaygroundPage";
 
 //style
 // import "./App.scss";
@@ -20,9 +21,10 @@ function App() {
       <Router>
         <NavigationBar />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/work" element={<Work />} />
+          <Route path="/" element={<Homepage />} />
+          <Route path="/about" element={<AboutPage />} />
+          <Route path="/work" element={<WorkPage />} />
+          <Route path="/playground" element={<PlaygroundPage />} />
         </Routes>
       </Router>
       <Footer />

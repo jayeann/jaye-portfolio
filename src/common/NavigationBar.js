@@ -15,6 +15,9 @@ function NavigationBar() {
             <Nav.Link as={Link} to="/work">
               WORK
             </Nav.Link>
+            <Nav.Link as={Link} to="/playground">
+              PLAYGROUND
+            </Nav.Link>
             <Nav.Link as={Link} to="/about">
               ABOUT ME
             </Nav.Link>

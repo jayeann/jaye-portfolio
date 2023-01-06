@@ -14,14 +14,14 @@ const Footer = () => {
       </p>
       <Row className="pt-4">
         <Col lg={6} xs={12}>
-          <Card>
+          <Card className="card-shadow">
             <Card.Img src={GmailIcon} />
             <Card.Title>jgtagoctoc@gmail.com</Card.Title>
             <Card.Text>Email Me</Card.Text>
           </Card>
         </Col>
         <Col lg={6} xs={12}>
-          <Card>
+          <Card className="card-shadow">
             <Card.Img src={LinkedinIcon} />
             <Card.Title>linkedin.com/in/jayeanntagoctoc/ </Card.Title>
             <Card.Text>Visit Me</Card.Text>

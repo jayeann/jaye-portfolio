@@ -9,7 +9,7 @@ const Home = () => {
         <div class="message">
           <div class="word1">design</div>
           <div class="word2">code</div>
-          <div class="word3">create</div>
+          <div class="word3">to create</div>
         </div>
       </div>
 
