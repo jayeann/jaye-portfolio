@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/jaye-portfolio/static/css/main.ed801ab0.css",
+    "main.js": "/jaye-portfolio/static/js/main.940e4d6f.js",
+    "static/media/supreme-court.png": "/jaye-portfolio/static/media/supreme-court.7b144e3303396ff7d28e.png",
+    "static/media/kilton-biddit.png": "/jaye-portfolio/static/media/kilton-biddit.0c7a1db0530d2b4eb858.png",
+    "static/media/hr-portal.png": "/jaye-portfolio/static/media/hr-portal.57e1c0972af9f52fee0d.png",
+    "static/media/fdc-visitor.png": "/jaye-portfolio/static/media/fdc-visitor.9ee9a53377c663173f4a.png",
+    "static/media/trendsight.png": "/jaye-portfolio/static/media/trendsight.9b3e0333c3cc33bef06f.png",
+    "static/media/orbis.png": "/jaye-portfolio/static/media/orbis.c2f1d23b973b8d2c2363.png",
+    "static/media/trendsforce.png": "/jaye-portfolio/static/media/trendsforce.770afccadf5b481ce433.png",
+    "static/media/Montserrat-ExtraBold.ttf": "/jaye-portfolio/static/media/Montserrat-ExtraBold.3a9ee100617f45a96d92.ttf",
+    "static/media/Montserrat-Medium.ttf": "/jaye-portfolio/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/Montserrat-Regular.ttf": "/jaye-portfolio/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/Montserrat-Black.ttf": "/jaye-portfolio/static/media/Montserrat-Black.08437fd0aa82576d3678.ttf",
+    "static/media/jaye_bnw.jpeg": "/jaye-portfolio/static/media/jaye_bnw.04fe59b7729c0051d4cb.jpeg",
+    "static/media/mini-jaye.png": "/jaye-portfolio/static/media/mini-jaye.8a543ea6169db20ccd45.png",
+    "static/media/gmail-icon.png": "/jaye-portfolio/static/media/gmail-icon.03e9d55bfa50621fe3c2.png",
+    "index.html": "/jaye-portfolio/index.html",
+    "main.ed801ab0.css.map": "/jaye-portfolio/static/css/main.ed801ab0.css.map",
+    "main.940e4d6f.js.map": "/jaye-portfolio/static/js/main.940e4d6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed801ab0.css",
+    "static/js/main.940e4d6f.js"
+  ]
+}
