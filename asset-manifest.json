@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jaye-portfolio/static/css/main.ed801ab0.css",
-    "main.js": "/jaye-portfolio/static/js/main.940e4d6f.js",
+    "main.js": "/jaye-portfolio/static/js/main.66829902.js",
     "static/media/supreme-court.png": "/jaye-portfolio/static/media/supreme-court.7b144e3303396ff7d28e.png",
     "static/media/kilton-biddit.png": "/jaye-portfolio/static/media/kilton-biddit.0c7a1db0530d2b4eb858.png",
     "static/media/hr-portal.png": "/jaye-portfolio/static/media/hr-portal.57e1c0972af9f52fee0d.png",
@@ -18,10 +18,10 @@
     "static/media/gmail-icon.png": "/jaye-portfolio/static/media/gmail-icon.03e9d55bfa50621fe3c2.png",
     "index.html": "/jaye-portfolio/index.html",
     "main.ed801ab0.css.map": "/jaye-portfolio/static/css/main.ed801ab0.css.map",
-    "main.940e4d6f.js.map": "/jaye-portfolio/static/js/main.940e4d6f.js.map"
+    "main.66829902.js.map": "/jaye-portfolio/static/js/main.66829902.js.map"
   },
   "entrypoints": [
     "static/css/main.ed801ab0.css",
-    "static/js/main.940e4d6f.js"
+    "static/js/main.66829902.js"
   ]
 }
