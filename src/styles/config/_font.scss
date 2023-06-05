@@ -1,0 +1,40 @@
+@import "./color";
+
+//Added Variable Font
+@font-face {
+  font-family: "Montserrat Black";
+  src: url("./fonts/Montserrat-Black.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat Extrabold";
+  src: url("./fonts/Montserrat-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat Medium";
+  src: url("./fonts/Montserrat-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("./fonts/Montserrat-Regular.ttf") format("truetype");
+}
+
+html body {
+  font-family: "Montserrat", "sans-serif";
+  color: $black;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat Extrabold";
+}
+
+p {
+  color: $dark-gray;
+}

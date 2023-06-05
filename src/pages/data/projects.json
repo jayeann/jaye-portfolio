@@ -1,0 +1,70 @@
+{
+  "works": [
+    {
+      "id": "1",
+      "title": "Project Justice",
+      "text": "ePayment System",
+      "url": "supreme-court",
+      "project_link": "https://epayment.judiciary.gov.ph/",
+      "description": "lorem ipsum",
+      "contributions": "lorem ipsum",
+      "tech_stack": ["React", "Redux", "Java"],
+      "images": []
+    },
+    {
+      "id": "2",
+      "title": "Biddit",
+      "text": "Bidding Platform",
+      "url": "biddit",
+      "project_link": "https://kiltonmotor.biddit.ph/",
+      "description": "lorem ipsum",
+      "contributions": "lorem ipsum",
+      "tech_stack": ["React", "Redux", "Java"],
+      "images": []
+    },
+    {
+      "id": "3",
+      "title": "HR Portal",
+      "text": "Company Portal",
+      "url": "hr-portal",
+      "project_link": null,
+      "description": "lorem ipsum",
+      "contributions": "lorem ipsum",
+      "tech_stack": ["React", "Redux", "Java"],
+      "images": []
+    },
+    {
+      "id": "4",
+      "title": "Orbis",
+      "text": "Dashboard Analytics",
+      "url": "orbis",
+      "project_link": null,
+      "description": "lorem ipsum",
+      "contributions": "lorem ipsum",
+      "tech_stack": ["React", "Redux", "Java"],
+      "images": []
+    },
+    {
+      "id": "5",
+      "title": "Trendsight",
+      "text": "Customer Relationship Management",
+      "url": "hr-portal",
+      "project_link": null,
+      "description": "lorem ipsum",
+      "contributions": "lorem ipsum",
+      "tech_stack": ["React", "Redux", "Java"],
+      "images": []
+    },
+    {
+      "id": "6",
+      "title": "FDC",
+      "text": "Visitor Management System",
+      "url": "fdc",
+      "project_link": null,
+      "description": "lorem ipsum",
+      "contributions": "lorem ipsum",
+      "tech_stack": ["React", "Redux", "Java"],
+      "images": []
+    }
+  ]
+}
