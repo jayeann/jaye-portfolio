@@ -5,23 +5,25 @@ import JayeBnW from "../assets/images/jaye_bnw.jpeg";
 
 const AboutPage = () => {
   return (
-    <Container>
-      <Row>
-        <Col xs={12} lg={6}>
-          <div className="summary">
-            <h6 className="summary-greet"> Hi, I'm</h6>
-            <h1 className="summary-title">
-              Jaye Ann
-              <br />
-              Tagoctoc.
-            </h1>
-            <p className="summary-description">
-              I'm passionate about designing and building applications that
-              people will love to use and enjoy.
-            </p>
+    <Container className="pb-5">
+      <Row className="align-items-center">
+        <Col xs={12} lg={7}>
+          <div className="d-flex justify-content-center">
+            <div className="summary">
+              <h6 className="summary-greet"> Hi, I'm</h6>
+              <h1 className="summary-title text-orange">
+                Jaye Ann
+                <br />
+                Tagoctoc.
+              </h1>
+              <p className="summary-description">
+                I'm passionate about designing and building applications that
+                people will love to use and enjoy.
+              </p>
+            </div>
           </div>
         </Col>
-        <Col xs={12} lg={6}>
+        <Col xs={12} lg={5}>
           <Image
             className="image-float"
             src={JayeBnW}
@@ -31,7 +33,7 @@ const AboutPage = () => {
         </Col>
       </Row>
 
-      <Row>
+      <Row className="align-items-center">
         <Col xs={12} lg={6}>
           <div className="Career block">
             <h3>My Career so far</h3>

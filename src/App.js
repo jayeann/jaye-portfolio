@@ -10,6 +10,7 @@ import Homepage from "./pages/Homepage";
 import AboutPage from "./pages/AboutPage";
 import WorkPage from "./pages/WorkPage";
 import PlaygroundPage from "./pages/PlaygroundPage";
+import ProjectDetailsPage from "./pages/ProjectDetailsPage";
 
 //style
 // import "./App.scss";
@@ -24,6 +25,7 @@ function App() {
           <Route path="/" element={<Homepage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/work" element={<WorkPage />} />
+          <Route path="/work/:item" element={<ProjectDetailsPage />} />
           <Route path="/playground" element={<PlaygroundPage />} />
         </Routes>
       </Router>
